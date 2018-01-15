@@ -7,4 +7,9 @@ This is a simple website project to learn how to use Git and Github
 Words
 
 ## Another Section
+
+more words
+
 ## How to Contribute
+
+I want to be done modifying this file
