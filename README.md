@@ -18,3 +18,5 @@ I want to be done modifying this file
 this is fake
 
 this is more fake text
+
+I am ready to be done with this class
