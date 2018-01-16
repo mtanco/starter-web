@@ -1,4 +1,4 @@
-# First Level Heading
+# READ ME
 
 This is a simple website project to learn how to use Git and Github
 
